@@ -1,0 +1,11 @@
+footer{
+	display: flex;
+	flex-direction: column;
+	border: 1.5px darkorange solid;
+} & h4 {
+ text-align: center;
+} 
+  & p {
+	margin: 0 ;
+	padding: 0;
+  }
